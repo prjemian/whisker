@@ -156,7 +156,7 @@ and any other tubes or pinholes we may want to use.
 white light
 -----------
 
-Shine a white (polychromatic) light source on the fiber.
+Shine a white (polychromatic, [#newton_color]_) light source on the fiber.
 At some distance (10 feet or more), tape a white sheet of paper 
 to the wall where the beam is.
 
@@ -285,8 +285,9 @@ the world around us.
 Glossary
 ********
 
-:diffraction: [#diffraction]_
+:diffraction:
    dif•frac•tion (dĭ-frăkˈshən)
+   [#wordnik]_
    
    *n.*
    The deflection and decomposition of light in passing by the edges 
@@ -296,6 +297,7 @@ Glossary
 
 :monochromatic:
    mon•o•chro•mat•ic (mŏnˌə-krō-mătˈĭk)
+   [#wordnik]_
    
    *adj.*
    Having or appearing to have only one color.
@@ -303,15 +305,17 @@ Glossary
    *adj.*
    Of or composed of radiation of only one wavelength: monochromatic light.
 
-:photon:
+:photon: 
    photon (fōˈtŏnˌ)
+   [#wordnik]_
    
    *n.*
    Unit of light, has energy, no mass, indefinitely long lifetime.
    Examples: visible light, laser, infrared, ultraviolet, X-ray, gamma ray
 
-:polychromatic: [#newton_color]_
+:polychromatic:
    pol•y•chro•mat•ic (pŏlˌē-krō-mătˈĭk)
+   [#wordnik]_, [#newton_color]_
    
    *adj.*
    Having or exhibiting many colors.
@@ -323,7 +327,7 @@ Glossary
 
 ----------
 
-.. [#diffraction] https://www.wordnik.com/words/diffraction
+.. [#wordnik] https://www.wordnik.com/words
 .. [#pauw] http://www.lookingatnothing.com
 .. [#video] https://www.youtube.com/watch?v=2QOsh2vgY2Q
 .. [#newton_color] http://www.webexhibits.org/colorart/bh.html

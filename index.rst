@@ -6,7 +6,7 @@ Fiber Diffraction from a Cat's Whisker
 :group:  Advanced Photon Source
 :location: Argonne National Laboratory
 :date:   Introduce a Girl to Engineering Day, 2016-02-25
-:url:    https://github.com/prjemian/whisker
+:url:    https://github.com/prjemian/whisker/blob/master/index.rst
 
 Abstract
 ********

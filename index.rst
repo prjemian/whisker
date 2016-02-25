@@ -250,7 +250,9 @@ from a chicken leg (drumstick) tendon.
         X-ray diffraction from chicken leg tendon (negative image: black is more intense)
 
 Here, the alternating pattern of strong and weak diffractions is due to
-the atomic-scale crystalline nature of the tendon.  It is possible to
+the crystalline nature of the tendon (we used X-rays to probe the atomic-scale
+structure, remember that the wavelength is the probe that sets the 
+scale of the measurement).  It is possible to
 analyze this pattern of spacings and intensity of the fringes to interpret
 additional structural information about the tendon.
 

@@ -50,6 +50,10 @@ chance to blink before permanent damage can occur.
 The Donor
 *********
 
+Here is our whisker donor, a female domestic medium-hair cat
+wuth tuxedo markings.  Her name is *Govig* (translation: little cow).
+She's almost 7 years old now.
+
 .. compound::
 
     .. _fig.donor:
@@ -59,6 +63,10 @@ The Donor
         :width: 60%
 
         The Whisker Donor: *Govig*
+
+Collect the fiber (whisker) as it has been given freely by the cat.
+Do *NOT* take it from the cat directly.  Your relationship
+would be forever altered.
 
 How thick is the whisker?
 *************************
@@ -108,10 +116,6 @@ for conversion into a model of the sample structure.
 
 Procedure
 =========
-
-Collect the fiber (whisker) as it has been given from the cat.
-Do *NOT* take it from the cat directly.  Your relationship
-would be forever altered.
 
 Take a stiff piece of cardboard and cut out an opening 
 large enough to measure most of the fiber length.  
@@ -176,7 +180,11 @@ repeat the previous observation.
 
 You will observe a pattern of *fringes* (due to the diffraction
 of green laser light by the fiber).  Measure the average spacing, 
-:math:`s` of these fringes.  To measure the shape of the fiber, 
+:math:`s` of these fringes.  (Suggestion: measure the midpoints of
+two fringes and divide by how many intervals in between to get
+an average spacing.)  Don't start from the direct beam (there's
+an additional :math:`\pi/2` term that will throw off your calculations).
+To measure the shape of the fiber, 
 measure :math:`s` at various points along the length of the fiber.
 You can use the motorized translation system to move the fiber.
 
